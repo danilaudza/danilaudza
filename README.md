@@ -33,9 +33,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<a href="#"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danilaudza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 ## Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/dlaudza/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
